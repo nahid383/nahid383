@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nahid Hasan</h1>
+<h1 align="center">Hey 👋, I'm Nahid Hasan</h1>
 <h3 align="center">Software Engineering Student | AI Builder | Competitive Programmer</h3>
 
 <p align="center">
@@ -29,6 +29,13 @@ I am **Nahid Hasan**, a Software Engineering student at
 
 ---
 
+## 😄 Fun Zone
+
+- ✨ Creating bugs since my first `Hello World`
+- 🎲 Debugging takes longer than writing the code 😭
+
+---
+
 ## 🛠 Tech Stack
 
 **Languages**  
@@ -39,27 +46,6 @@ HTML • CSS • Tailwind
 
 **Tools & Backend**  
 Node.js • Express • MongoDB • VS Code • Git  
-
----
-
-## 🎮 Pacman Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nahid383/nahid383/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahid383/nahid383/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nahid383/nahid383/output/pacman-contribution-graph.svg">
-</picture>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nahid383/nahid383/output/pacman-contribution-graph.svg" />
-</p>
-
----
-
-## 🐍 Snake Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nahid383/nahid383/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
@@ -87,6 +73,24 @@ Node.js • Express • MongoDB • VS Code • Git
 
 ---
 
+## 🐍 Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nahid383/nahid383/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎮 Pacman Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nahid383/nahid383/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahid383/nahid383/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nahid383/nahid383/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
@@ -94,13 +98,6 @@ Node.js • Express • MongoDB • VS Code • Git
   <a href="https://github.com/nahid383">GitHub</a> •
   <a href="https://www.linkedin.com/in/nahid-hasan-swe-23-sust/">LinkedIn</a>
 </p>
-
----
-
-## 😄 Fun Fact
-
-✨ Creating bugs since my first `Hello World`  
-🎲 Debugging takes longer than writing the code 😭  
 
 ---
 
