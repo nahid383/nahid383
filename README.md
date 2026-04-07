@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student | AI Builder | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nahid383&label=Visitors&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=nahid383&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
@@ -38,14 +38,9 @@ I am **Nahid Hasan**, a Software Engineering student at
 
 ## 🛠 Tech Stack
 
-**Languages**  
-C • C++ • Java • JavaScript • TypeScript  
-
-**Frontend**  
-HTML • CSS • Tailwind  
-
-**Tools & Backend**  
-Node.js • Express • MongoDB • VS Code • Git  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,c,cpp,java,vscode" />
+</p>
 
 ---
 
@@ -75,9 +70,11 @@ Node.js • Express • MongoDB • VS Code • Git
 
 ## 🐍 Snake Contribution Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nahid383/nahid383/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nahid383/nahid383/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahid383/nahid383/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/nahid383/nahid383/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -91,12 +88,18 @@ Node.js • Express • MongoDB • VS Code • Git
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:nahid1719abd@gmail.com">Email</a> •
-  <a href="https://github.com/nahid383">GitHub</a> •
-  <a href="https://www.linkedin.com/in/nahid-hasan-swe-23-sust/">LinkedIn</a>
+  <a href="https://github.com/nahid383" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/nahid-hasan-swe-23-sust/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:nahid1719abd@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
 </p>
 
 ---
