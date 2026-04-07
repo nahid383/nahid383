@@ -55,15 +55,15 @@ I am **Nahid Hasan**, a Software Engineering student at
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nahid383&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahid383&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid383&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nahid383&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid383&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
