@@ -1,71 +1,104 @@
-## Hi there 👋
-![Visitor Count](https://komarev.com/ghpvc/?username=nahid383&label=Spectator)
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Nahid Hasan</h1>
+<h3 align="center">Software Engineering Student | AI Builder | Competitive Programmer</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nahid383&label=Visitors&color=0e75b6&style=flat" />
+</p>
 
-<h4 align="left">My name is Nahid Hasan. I am a student of Software Engineering (SWE) at Shahjalal University of Science and Technology (SUST), and I am from Naogaon, Bangladesh.</h4>
+---
 
-###
+## 🚀 About Me
 
-<h5 align="left">🚀 NASA Space Apps Champion (Rangpur)<br>🧠 MillionX AI Buildathon Finalist<br>🌌 SkyGlow – Interactive Space Learning App<br>🤖 Master-Moshai – AI-Powered Learning Companion<br>👨‍💻 Team Fakibazz</h5>
+I am **Nahid Hasan**, a Software Engineering student at  
+**Shahjalal University of Science and Technology (SUST)** 🇧🇩  
 
-###
+- 🚀 NASA Space Apps Champion (Rangpur)
+- 🧠 MillionX AI Buildathon Finalist
+- 🌌 SkyGlow – Interactive Space Learning App
+- 🤖 Master-Moshai – AI-Powered Learning Companion
+- 👨‍💻 Team Fakibazz
+- 📍 From Naogaon, Bangladesh
 
-<p align="left">✨ Creating bugs since I wrote my first “Hello World” 😄<br>📚 Currently learning DSA, system design & full-stack development<br>🎯 Goals: Become a top software engineer & build AI-powered platforms<br>🎲 Fun fact: Debugging takes longer than writing the code</p>
+---
 
-###
+## 💡 Currently
 
-<h2 align="left">I code with</h2>
+- 📚 Learning **DSA, System Design & Full Stack Development**
+- 🚀 Building AI-powered applications
+- 🎯 Goal: Become a top software engineer
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-</div>
+## 🛠 Tech Stack
 
-###
+**Languages**  
+C • C++ • Java • JavaScript • TypeScript  
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-</div>
+**Frontend**  
+HTML • CSS • Tailwind  
 
-###
+**Tools & Backend**  
+Node.js • Express • MongoDB • VS Code • Git  
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+---
 
-###
+## 🎮 Pacman Contribution Graph
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nahid383/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@nahid383/0" alt="Medium post 1"  />
-  </a>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nahid383/nahid383/output/pacman-contribution-graph.svg" />
+</p>
 
-###
+---
+
+## 🐍 Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nahid383/nahid383/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahid383&theme=tokyo-night" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nahid383&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahid383&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid383&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:nahid1719abd@gmail.com">Email</a> •
+  <a href="https://github.com/nahid383">GitHub</a> •
+  <a href="https://www.linkedin.com/in/nahid-hasan-swe-23-sust/">LinkedIn</a>
+</p>
+
+---
+
+## 😄 Fun Fact
+
+✨ Creating bugs since my first `Hello World`  
+🎲 Debugging takes longer than writing the code 😭  
+
+---
+
+## 💬 Quote
+
+> “First, solve the problem. Then, write the code.”
