@@ -55,17 +55,16 @@ I am **Nahid Hasan**, a Software Engineering student at
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahid383&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nahid383&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nahid383&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid383&layout=compact&theme=tokyonight&cache_seconds=86400&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid383&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=nahid383&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🐍 Snake Contribution Animation
