@@ -61,12 +61,9 @@ I'm a Software Engineering student who enjoys building real-world applications, 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nahid383&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nahid383&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
-
----
-
 
 ---
 
