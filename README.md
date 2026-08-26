@@ -6,13 +6,13 @@
 
 <p>
   <a href="https://github.com/nahid383">
-    <img src="https://img.shields.io/github/followers/nahid383?label=Followers&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/nahid383?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=nahid383&label=Profile%20Views&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=nahid383&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+Web+Development+Enthusiast;Hackathon+Participant;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+Web+Development+Enthusiast;Hackathon+Participant;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 </div>
@@ -39,29 +39,51 @@ I'm a Software Engineering student who enjoys building real-world applications, 
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="Programming Languages" />
 
 ### Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express" alt="Web Development" />
 
 ### Database & Backend
 
-<img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,postgres" alt="Database and Backend" />
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel,figma" alt="Tools and Platforms" />
 
 </div>
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nahid383&theme=tokyo-night&hide_border=true&area=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nahid383&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Nahid's GitHub Stats" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid383&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nahid383&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nahid383/nahid383/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -73,6 +95,7 @@ I'm a Software Engineering student who enjoys building real-world applications, 
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🩸 BloodFinder
@@ -98,9 +121,11 @@ An AI-powered project created for the NASA Space Apps Challenge.
 <a href="https://github.com/nahid383/Skyglow">Repository</a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🎓 Master-Moshai
@@ -128,6 +153,7 @@ Java • OOP
 <a href="https://github.com/nahid383/PacManGame">Repository</a>
 
 </td>
+
 </tr>
 </table>
 
@@ -165,16 +191,26 @@ Java • OOP
 
 ---
 
+# 🌱 Currently Learning
+
+<div align="center">
+
+`TypeScript` • `React` • `Node.js` • `Backend Development` • `AI` • `System Design`
+
+</div>
+
+---
+
 # 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/nahid383">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
@@ -185,7 +221,7 @@ Java • OOP
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=nahid383&label=Profile%20Views&color=58A6FF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=nahid383&label=Profile%20Views&style=flat-square" alt="Profile Views" />
 
 <br><br>
 
