@@ -61,9 +61,11 @@ I'm a Software Engineering student who enjoys building real-world applications, 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nahid383&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Nahid's GitHub Stats" />
+<img src="https://github-readme-streak-stats.demolab.com?user=nahid383&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid383&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nahid383&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
