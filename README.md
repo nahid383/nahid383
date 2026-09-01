@@ -4,7 +4,6 @@
 
 ### `Software Engineering Student` • `Developer` • `AI Enthusiast` • `Hackathoner`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Ideas+into+Real+Products+🚀;Software+Engineering+Student+at+SUST+🎓;AI+%7C+Web+Development+%7C+Problem+Solving;Hackathons+%7C+Open+Source+%7C+Innovation" alt="Typing SVG" />
 
 <br/>
 
