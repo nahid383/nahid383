@@ -2,17 +2,18 @@
 
 # 👋 Hey, I'm Nahid Hasan
 
-### `Software Engineering Student` • `Developer` • `AI Enthusiast` • `Hackathoner`
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Developer;AI+Enthusiast;Hackathoner" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/nahid383">
 <img src="https://img.shields.io/github/followers/nahid383?label=Followers&style=for-the-badge&logo=github&color=181717"/>
 </a>
+
 <a href="https://github.com/nahid383?tab=repositories">
 <img src="https://img.shields.io/github/stars/nahid383?label=Stars&style=for-the-badge&logo=github&color=yellow"/>
 </a>
+
 <a href="https://github.com/nahid383">
 <img src="https://komarev.com/ghpvc/?username=nahid383&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 </a>
