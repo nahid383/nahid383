@@ -1,91 +1,62 @@
 <div align="center">
 
-# 👋 Hi, I'm Nahid Hasan
+# 👋 Hey, I'm Nahid Hasan
 
-### Software Engineering Student • Developer • Problem Solver
+### `Software Engineering Student` • `Developer` • `AI Enthusiast` • `Hackathoner`
 
-<p>
-  <a href="https://github.com/nahid383">
-    <img src="https://img.shields.io/github/followers/nahid383?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nahid383&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Ideas+into+Real+Products+🚀;Software+Engineering+Student+at+SUST+🎓;AI+%7C+Web+Development+%7C+Problem+Solving;Hackathons+%7C+Open+Source+%7C+Innovation" alt="Typing SVG" />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+Web+Development+Enthusiast;Hackathon+Participant;Always+Learning+%26+Building" alt="Typing SVG" />
-</p>
+<br/>
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a Software Engineering student who enjoys building real-world applications, exploring AI, and turning ideas into working products.
-
-* 🎓 Studying **Software Engineering**
-* 💻 Interested in **Web Development & AI**
-* 🧠 Improving my **Data Structures, Algorithms & Problem Solving**
-* 🚀 Building projects that solve practical problems
-* 🏆 Participating in hackathons and technology competitions
-* 🌱 Currently learning and experimenting with new technologies
-* ⚡ **Build. Break. Learn. Repeat.**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="Programming Languages" />
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express" alt="Web Development" />
-
-### Database & Backend
-
-<img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,postgres" alt="Database and Backend" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel,figma" alt="Tools and Platforms" />
+<a href="https://github.com/nahid383">
+<img src="https://img.shields.io/github/followers/nahid383?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+</a>
+<a href="https://github.com/nahid383?tab=repositories">
+<img src="https://img.shields.io/github/stars/nahid383?label=Stars&style=for-the-badge&logo=github&color=yellow"/>
+</a>
+<a href="https://github.com/nahid383">
+<img src="https://komarev.com/ghpvc/?username=nahid383&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+</a>
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+## 🧑‍💻 About Me
 
-<div align="center">
+```yaml
+name: Nahid Hasan
+location: Sylhet, Bangladesh
+education: Software Engineering @ SUST
 
-<img src="https://github-readme-streak-stats.demolab.com?user=nahid383&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+interests:
+  - Web Development
+  - Artificial Intelligence
+  - Software Engineering
+  - Competitive Programming
+  - Hackathons
 
-<br><br>
+currently_learning:
+  - Full-Stack Development
+  - AI/ML
+  - System Design
+  - Data Structures & Algorithms
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nahid383&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-
-</div>
+mindset: "Learn → Build → Break → Improve → Repeat 🚀"
+```
 
 ---
 
-# 🔥 GitHub Streak
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nahid383&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-# 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nahid383/nahid383/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+| 🏅 Achievement                       |       🎯 Result      |
+| :----------------------------------- | :------------------: |
+| 🚀 NASA Space Apps Challenge 2025    | 🥇 Regional Champion |
+| 🤖 National AI Buildathon 2026       |      🏆 Finalist     |
+| 💡 MillionX Bangladesh AI Buildathon |      🏆 Finalist     |
+| ⚡ Infinity AI BuildFest 2026         |      🏆 Finalist     |
 
 </div>
 
@@ -93,126 +64,180 @@ I'm a Software Engineering student who enjoys building real-world applications, 
 
 # 🚀 Featured Projects
 
-<div align="center">
-
 <table>
 <tr>
-
-<td width="50%">
-
-### 🩸 BloodFinder
-
-A blood donor platform designed to help people find suitable blood donors quickly.
-
-**Built with**
-
-React • Tailwind CSS • DaisyUI • Supabase
-
-<a href="https://github.com/nahid383/bloodFinder">Repository</a> • <a href="https://blood-finder-beta.vercel.app/">Live Demo</a>
-
-</td>
-
 <td width="50%">
 
 ### 🌌 SkyGlow
 
-An AI-powered project created for the NASA Space Apps Challenge.
+An interactive educational platform designed to make **space science** engaging and accessible through interactive learning.
 
-🏆 **NASA Space Apps Challenge 2025 — Regional Champion**
+**Tech:** HTML • CSS • JavaScript • AI
 
-<a href="https://github.com/nahid383/Skyglow">Repository</a>
+🏆 NASA Space Apps Challenge 2025
+🥇 Regional Champion
+
+<a href="https://nahid383.github.io/Skyglow/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-00F7FF?style=for-the-badge&logoColor=black"/>
+</a>
 
 </td>
 
+<td width="50%">
+
+### 🤖 Master-Moshai
+
+An AI-powered educational solution created for the **MillionX Bangladesh AI Buildathon**.
+
+**Tech:** AI • Web Development • APIs
+
+🏆 MillionX Bangladesh AI Buildathon
+🏆 Finalist
+
+<a href="https://github.com/nahid383/mastermoshai-millionxbangladesh-fakibazz">
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
 </tr>
 
 <tr>
-
 <td width="50%">
 
-### 🎓 Master-Moshai
+### 🩸 BloodFinder
 
-An AI-powered educational platform designed to support students preparing for SSC, HSC and admission examinations.
+A blood donor discovery platform with intelligent matching to help users find suitable donors efficiently.
 
-**Built with**
+**Tech:** React • Tailwind CSS • Supabase
 
-JavaScript • AI • Web Technologies
+🔎 Smart donor matching
+⚡ Modern responsive UI
 
-<a href="https://github.com/nahid383/master-moshai">Repository</a>
+<a href="https://blood-finder-beta.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
 </td>
 
 <td width="50%">
 
-### 🎮 PacManGame
+### 🎮 PacMan Game
 
-A Pac-Man inspired game developed while applying object-oriented programming concepts.
+A Java-based Pac-Man implementation demonstrating **OOP, game logic, collision detection, map loading and scoring**.
 
-**Built with**
+**Tech:** Java • OOP
 
-Java • OOP
+🎮 Game Development
+🧠 Algorithmic Logic
 
-<a href="https://github.com/nahid383/PacManGame">Repository</a>
+<a href="https://github.com/nahid383">
+<img src="https://img.shields.io/badge/📂%20View%20Projects-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
-
 </tr>
 </table>
 
-</div>
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs"/>
+</p>
+
+### ☁️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma"/>
+</p>
 
 ---
 
-# 🏅 Achievements
+# 📊 GitHub Statistics
 
 <div align="center">
 
-| 🏆 Achievement                    | Result                |
-| --------------------------------- | --------------------- |
-| 🚀 NASA Space Apps Challenge 2025 | **Regional Champion** |
-| 🤖 National AI Buildathon 2026    | **Finalist**          |
-| ⚡ Infinity AI BuildFest 2026      | **Finalist**          |
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nahid383&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid383&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 💡 What I'm Working On
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nahid383&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nahid383/nahid383/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nahid383&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   💻 Web Development                                │
-│   🤖 Artificial Intelligence                        │
-│   🧠 Problem Solving                                │
-│   🚀 Hackathon Projects                             │
-│   📚 Software Engineering                           │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+☑ Build real-world products
+☑ Participate in more hackathons
+☑ Improve competitive programming
+☑ Become a stronger full-stack developer
+☑ Learn more about AI/ML
+☐ Contribute more to open source
+☐ Build something people actually use
 ```
 
 ---
 
-# 🌱 Currently Learning
-
-<div align="center">
-
-`TypeScript` • `React` • `Node.js` • `Backend Development` • `AI` • `System Design`
-
-</div>
-
----
-
-# 🌐 Connect With Me
+# 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/nahid383">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </div>
@@ -221,12 +246,12 @@ Java • OOP
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💙 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=nahid383&label=Profile%20Views&style=flat-square" alt="Profile Views" />
+**If you like my work, consider giving my repositories a ⭐**
 
-<br><br>
+<br/>
 
-**"Build. Break. Learn. Repeat."**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
